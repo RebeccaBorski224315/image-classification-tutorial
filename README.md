@@ -1,5 +1,7 @@
 # Mastering Image Classification: A Beginner's Guide to Computer Vision
 
+Tutorial created by Rebecca Borski
+
 ## 1. Goal/Objective
 
 This tutorial is made for anyone who has a bit of experience with Python and wants to learn more about Artificial Intelligence (AI). This tutorial will dive deeper into the field of Computer Vision, focusing on Image Classification. The aim is to show you how to create an Image Classification algorithm, starting from finding good data, through building your first model, to evaluating the predictions. 
@@ -1014,3 +1016,11 @@ If you're ready for more complex models, you should look into **transfer learnin
 If you are interested in reading more about everything that Tensorflow can do, take a look at their well-structured documentation: [TensorFlow documentation](https://www.tensorflow.org/tutorials).
 
 --- 
+
+## License
+
+### Code and Tutorial Content
+The code and written content in this repository are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+### Images
+All images created by me in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See the [LICENSE-images.md](images/LICENSE-images.md) file for details.
